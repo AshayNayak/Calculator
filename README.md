@@ -1,1 +1,2 @@
 # Calculator
+Use Google Chrome. 
